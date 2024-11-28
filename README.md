@@ -4,7 +4,7 @@
 * Лабораторная работа 1. Логические структуры в JavaScript 
     * [Задание 1](https://github.com/KharlamovaAnn/Labs_JS/blob/main/Lab11.js)
     * [Задание 2](https://github.com/KharlamovaAnn/Labs_JS/blob/main/Lab12.js)
-    * [Задание 3]()
+    * [Задание 3](https://github.com/KharlamovaAnn/Labs_JS/blob/main/Lab13.js)
 * Лабораторная работа 2. Массивы в JavaScript
     * [Задание 1]()
     * [Задание 2]()
