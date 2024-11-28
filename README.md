@@ -8,7 +8,7 @@
 * Лабораторная работа 2. Массивы в JavaScript
     * [Задание 1](https://github.com/KharlamovaAnn/Labs_JS/blob/main/Lab21.js)
     * [Задание 2](https://github.com/KharlamovaAnn/Labs_JS/blob/main/Lab22.js)
-    * [Задание 3]()
+    * [Задание 3](https://github.com/KharlamovaAnn/Labs_JS/blob/main/Lab23.js)
 * Лабораторная работа 3. Функции в JavaScript
     * [Задание 1]()
     * [Задание 2]()
