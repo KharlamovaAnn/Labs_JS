@@ -12,8 +12,8 @@
 * Лабораторная работа 3. Функции в JavaScript
     * [Задание 1](https://github.com/KharlamovaAnn/Labs_JS/blob/main/Lab31.js)
     * [Задание 2](https://github.com/KharlamovaAnn/Labs_JS/blob/main/Lab32.js)
-    * [Задание 3]()
-* Лабораторная работа 3. Функции в JavaScript
+    * [Задание 3](https://github.com/KharlamovaAnn/Labs_JS/blob/main/Lab33.js)
+* Лабораторная работа 4. Функции в JavaScript
     * [Задание 1]()
     * [Задание 2]()
     * [Задание 3]()
